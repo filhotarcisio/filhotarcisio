@@ -1,7 +1,7 @@
 <h1 align="left">Hi everyone 👋, I'm Tarcísio Marcos</h1>
 <br>
 -🔥 Student of Web Development and a Tech Lover <br>
--💬 Ask me about JavaScript, HTML, CSS <br><br>
+-💬 Let's talk about JavaScript, HTML, CSS <br><br>
 
 
 ## 🛠  &nbsp;Tech Stack
