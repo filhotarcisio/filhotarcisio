@@ -18,7 +18,7 @@
 ## ⚙ &nbsp;GitHub Analitycs
 <p align="left">
 <a href="https://linktr.ee/tarcisiofilho">
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=filhotarcisio&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api?username=filhotarcisio&show_icons=true&theme=dark"/>
 <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filhotarcisio&layout=compact&theme=dark"/>
 </p>
 <br><br>
